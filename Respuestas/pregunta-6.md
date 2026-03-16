@@ -1,0 +1,1 @@
+db.libros.createIndex({ categoria: 1 });
